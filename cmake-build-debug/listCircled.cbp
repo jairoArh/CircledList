@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="listCircled"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="listCircled">
+				<Option output="/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/listCircled" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/Makefile&quot;  VERBOSE=1 listCircled"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="listCircled/fast">
+				<Option output="/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/listCircled" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/Makefile&quot;  VERBOSE=1 listCircled/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jairoarmando/CLionProjects/listCircled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jairoarmando/CLionProjects/listCircled/Book.cpp">
+			<Option target="listCircled"/>
+		</Unit>
+		<Unit filename="/Users/jairoarmando/CLionProjects/listCircled/Book.h">
+			<Option target="listCircled"/>
+		</Unit>
+		<Unit filename="/Users/jairoarmando/CLionProjects/listCircled/LinkCircled.cpp">
+			<Option target="listCircled"/>
+		</Unit>
+		<Unit filename="/Users/jairoarmando/CLionProjects/listCircled/LinkCircled.h">
+			<Option target="listCircled"/>
+		</Unit>
+		<Unit filename="/Users/jairoarmando/CLionProjects/listCircled/Node.h">
+			<Option target="listCircled"/>
+		</Unit>
+		<Unit filename="/Users/jairoarmando/CLionProjects/listCircled/main.cpp">
+			<Option target="listCircled"/>
+		</Unit>
+		<Unit filename="/Users/jairoarmando/CLionProjects/listCircled/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
